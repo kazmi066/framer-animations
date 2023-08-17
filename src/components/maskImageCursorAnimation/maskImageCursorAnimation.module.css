@@ -1,0 +1,38 @@
+.container {
+  height: 100vh;
+}
+
+.section,
+.mask {
+  height: 100%;
+  width: 100%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background: #242424;
+}
+
+.mask {
+  position: absolute;
+  mask-image: url("../../assets/circle.svg");
+  background: red;
+  mask-repeat: no-repeat;
+  mask-size: 50px;
+}
+
+.mask h1 {
+  color: #000;
+}
+
+h1 {
+  width: 60%;
+  margin: 0 auto;
+  color: #a0a0a0;
+}
+
+@media (max-width: 768px) {
+  h1 {
+    width: 100%;
+    padding: 0 1rem;
+  }
+}

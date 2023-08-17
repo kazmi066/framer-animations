@@ -1,0 +1,42 @@
+@import url("https://fonts.googleapis.com/css2?family=Russo+One&display=swap");
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+:root {
+  font-family: "Russo One", sans-serif;
+  line-height: 1.5;
+}
+
+@layer base {
+  h1 {
+    @apply text-2xl font-bold lg:!text-7xl;
+  }
+ 
+  h2 {
+    @apply text-xl font-bold md:text-3xl;
+  }
+ 
+  h3 {
+    @apply text-lg font-bold md:text-2xl;
+  }
+ 
+  h4 {
+    @apply text-base font-bold md:text-lg;
+  }
+
+  h5 {
+    @apply text-lg font-medium;
+  }
+
+  h6 {
+    @apply text-base font-medium;
+  }
+}
