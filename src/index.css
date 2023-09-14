@@ -11,6 +11,9 @@
 }
 
 :root {
+  --darker-grey: #242424;
+  --primary-grey: #414141;
+
   font-family: "Russo One", sans-serif;
   line-height: 1.5;
 }
