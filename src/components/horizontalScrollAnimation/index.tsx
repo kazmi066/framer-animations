@@ -1,0 +1,1 @@
+export { HorizontalScrollAnimation } from './horizontalScrollAnimation';
