@@ -9,7 +9,8 @@ export default {
     extend: {
       colors: {
         "primary-grey": "var(--primary-grey)",
-        "darker-grey": "var(--darker-grey)"
+        "darker-grey": "var(--darker-grey)",
+        "lighter-grey": "var(--lighter-grey)"
       }
     },
   },
