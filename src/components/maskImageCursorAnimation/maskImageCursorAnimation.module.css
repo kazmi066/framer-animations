@@ -27,6 +27,9 @@
 .container h1 {
   width: 60%;
   margin: 0 auto;
+}
+
+.section h1 {
   color: #a0a0a0;
 }
 

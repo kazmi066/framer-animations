@@ -1,0 +1,1 @@
+export { ScrollTabChangeAnimation } from './scrollTabChangeAnimation';

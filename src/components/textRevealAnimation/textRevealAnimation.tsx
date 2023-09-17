@@ -3,7 +3,7 @@ import { Reveal } from "@/components/reveal";
 export const TextRevealAnimation = () => {
   return (
     <section className="bg-darker-grey h-screen border-b-[1px] border-primary-grey">
-      <div className="flex flex-col text-lighter-grey items-start justify-center w-[60%] h-full mx-auto">
+      <div className="flex flex-col text-lighter-grey items-start justify-center md:w-[60%] w-[90%] h-full mx-auto">
         <div>
           <Reveal>
             <h1 className="w-full">Hi! I am Awais</h1>
