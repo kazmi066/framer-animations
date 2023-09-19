@@ -1,0 +1,1 @@
+export { MarqueeMovingAnimation } from './marqueeMovingAnimation';
