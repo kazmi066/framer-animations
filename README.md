@@ -1,6 +1,6 @@
 Demo:
 
-https://github.com/kazmi066/mask-image-framer-animation/assets/37541648/c47add67-51ca-4c0b-acfb-82ceb24bc812
+https://github.com/kazmi066/framer-animations/assets/37541648/3484f6ad-0f30-4f28-b1a6-5806eac8dbc8
 
 Start the project with:
 
