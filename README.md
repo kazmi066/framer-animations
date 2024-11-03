@@ -4,9 +4,5 @@ https://github.com/kazmi066/framer-animations/assets/37541648/3484f6ad-0f30-4f28
 
 Start the project with:
 
-- npm i
-- npm start
-
-> Make sure to use latest react version
-
-
+- yarn install
+- yarn run dev
