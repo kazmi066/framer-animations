@@ -9,7 +9,7 @@ export const ImagesGridRevealAnimation = () => {
 
   const { scrollYProgress } = useScroll({
     target: ref,
-    offset: ["start 100px", "end end"],
+    offset: ["start 0", "end end"],
   });
 
   const imageTransforms = [
